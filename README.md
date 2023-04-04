@@ -4,7 +4,7 @@
 <img src="./other_files/rahnama.png"><br><br>
 <a href="https://github.com/AliAlmasi/rahnama"><img src="https://komarev.com/ghpvc/?username=alialmasi-rahnama&color=2c7862&style=flat-square&label=Visits"></a>
 <a href="https://github.com/AliAlmasi/rahnama/stargazers"><img src="https://img.shields.io/github/stars/alialmasi/rahnama.svg?style=flat-square&label=Stars&maxAge=2592000&color=1b727d"></a>
-<a href="https://github.com/AliAlmasi/rahnama"><img src="https://img.shields.io/github/license/alialmasi/rahnama.svg?style=flat-square&label=License&maxAge=2592000&color=155b64"></a>
+<a href="https://github.com/AliAlmasi/rahnama/blob/main/LICENSE"><img src="https://img.shields.io/github/license/alialmasi/rahnama.svg?style=flat-square&label=License&maxAge=2592000&color=155b64"></a>
 <br>
 <a href="https://github.com/AliAlmasi/rahnama/issues"><img src="https://img.shields.io/badge/Ask%20quesions%20in-Issues-146264.svg?style=flat-square"></a>
 <a href="https://github.com/AliAlmasi/rahnama/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-009458.svg?style=flat-square"></a>
