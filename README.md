@@ -1,7 +1,7 @@
 <h4 align="center">⚠️ Attention: This repository is not completed, yet.</h4>
 
 <div align="center">
-<img src="./other_files/rahnama.png" height="200"><br><br>
+<img src="./other_files/rahnama.png"><br><br>
 <a href="https://github.com/AliAlmasi/rahnama"><img src="https://komarev.com/ghpvc/?username=alialmasi-rahnama&color=2c7862&style=flat-square&label=Visits"></a>
 <a href="https://github.com/AliAlmasi/rahnama/stargazers"><img src="https://img.shields.io/github/stars/alialmasi/rahnama.svg?style=flat-square&label=Stars&maxAge=2592000&color=1b727d"></a>
 <a href="https://github.com/AliAlmasi/rahnama"><img src="https://img.shields.io/github/license/alialmasi/rahnama.svg?style=flat-square&label=License&maxAge=2592000&color=155b64"></a>
