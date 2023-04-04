@@ -1,7 +1,7 @@
 <h4 align="center">⚠️ Attention: This repository is not completed, yet.</h4>
 
 <div align="center">
-<img src="./other_files/rahnama.png"><br><br>
+<a><img src="./other_files/rahnama.png"></a><br><br>
 <a href="https://github.com/AliAlmasi/rahnama"><img src="https://komarev.com/ghpvc/?username=alialmasi-rahnama&color=2c7862&style=flat-square&label=Visits"></a>
 <a href="https://github.com/AliAlmasi/rahnama/stargazers"><img src="https://img.shields.io/github/stars/alialmasi/rahnama.svg?style=flat-square&label=Stars&maxAge=2592000&color=1b727d"></a>
 <a href="https://github.com/AliAlmasi/rahnama/blob/main/LICENSE"><img src="https://img.shields.io/github/license/alialmasi/rahnama.svg?style=flat-square&label=License&maxAge=2592000&color=155b64"></a>
@@ -60,3 +60,6 @@ x-ui control menu usages:</code></pre>
 <p>The full step-by-step guide is on the <a href="https://github.com/AliAlmasi/rahnama/wiki/">wiki</a><br>
 You can ask your questions on the <a href="https://github.com/AliAlmasi/rahnama/issues">issues</a> section.<br><a href="https://github.com/AliAlmasi/rahnama/discussions">Discussions</a> section are available for you guys.</p>
 <p>In the hope of a free Iran.</p>
+<div align="center">
+<h5>Stargazers over time</h5>
+<a href="https://github.com/AliAlmasi/rahnama"><img src="https://starchart.cc/AliAlmasi/rahnama.svg"></a></div>
