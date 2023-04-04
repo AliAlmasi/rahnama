@@ -28,7 +28,7 @@
 <p>You need to Install an ssh client program, to connect to your server's shell and run commands on your server.<br>It is optional so you can install any ssh client you like, (there are also some people who don't use these softwares, they run the <code>ssh</code> command on their terminal).</p>
 <p>But, I recommend you to use <a href="https://mobaxterm.mobatek.net/">MobaXterm</a>. It has good features such as password manager (so you don't have to enter password every time), session manager (saving sessions so you don't have to type ssh command every time) and some more helping features like graphical SFTP browser (also available in <em>soft98</em>).</p>
 <h2>How does MobaXterm works?</h2>
-<p>When you finished installing MobaXterm, you can add your server as an session. Detailed guide of will be on <a href="https://github.com/AliAlmasi/rahnama/wiki">Wiki</a>.</p>
+<p>When you finished installing MobaXterm, you can add your server as an session. Detailed guide of will be on <a href="https://github.com/AliAlmasi/rahnama/wiki/MobaXterm">Wiki</a>.</p>
 <h2>Ok, what's next?</h2>
 <p>Now we're getting to the exciting parts. Next step is to install the 3x-ui panel on your server.</p>
 <p>To do this, the developers of 3x-ui have already made an <code>install.sh</code> script, so youdon't have to install manually.<br>Only thing you need to do is to run this on your server's shell:</p><pre><code>bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)</code></pre>
