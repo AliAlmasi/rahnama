@@ -1,9 +1,5 @@
-<h1 align="center">Attention:<br>This repository is not completed, yet.</h1>
-<br>
-<br>
-<br>
-<br>
-<br>
+<h4 align="center">⚠️ Attention: This repository is not completed, yet.</h4>
+
 <div align="center">
 <img src="./other_files/rahnama.png" height="200"><br><br>
 <a href="https://github.com/AliAlmasi/rahnama"><img src="https://komarev.com/ghpvc/?username=alialmasi-rahnama&color=2c7862&style=flat-square&label=Visits"></a>
@@ -60,3 +56,7 @@ x-ui v1.1.4 installation finished, it is running now...
 
 x-ui control menu usages:</code></pre>
 <p>Congrats, you have sucessfully installed and configured your 3x-ui panel.<br>Now go to <code>http://YOUR-IP:PORT</code> to see the panel.</p>
+<h2>What about "exciting" parts?</h2>
+<p>The full step-by-step guide is on the <a href="https://github.com/AliAlmasi/rahnama/wiki/">wiki</a><br>
+You can ask your questions on the <a href="https://github.com/AliAlmasi/rahnama/issues">issues</a> section.<br><a href="https://github.com/AliAlmasi/rahnama/discussions">Discussions</a> section are available for you guys.</p>
+<p>In the hope of a free Iran.</p>
