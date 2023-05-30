@@ -14,32 +14,33 @@
 </div>
 <h2>What's This?</h2>
 <p>Recently, people's access to the Internet has been disrupted by the government, and many daily Internet tools such as Instagram and WhatsApp have been cut off.</p>
-<p>This guide will help you to make a personal vless/trojan server using a <a href="https://github.com/MHSanaei/3x-ui/">fork (3x-ui)</a> of a popular xray web-panel called <code>x-ui</code> by <a href="https://github.com/vaxilu/x-ui">vaxilu</a>.</p>
-<p>Every step on this guide has been checked and the results have been monitorred by myself with my personal server. Don't worry, I will also tell you what kind of server you need to buy and where you should buy it from =D.</p>
+<p>This guide will help you to make a personal vless/trojan server using a <a href="https://github.com/MHSanaei/3x-ui/">fork (3x-ui)</a> of a popular xray web-based panel called <code>x-ui</code> by <a href="https://github.com/vaxilu/x-ui">vaxilu</a>.</p>
+<p>Every step on this guide has been checked and the results have been monitored by myself with my personal server. Don't worry, I will also tell you what kind of server you need to buy and where you should buy it from =D.</p>
+<blockquote>UPDATE: I'm working on the <a href="https://github.com/hiddify/hiddify-config">Hiddify</a> panel which is fully automatic on some steps of setting up the system. There'll be a full guide on that soon.</blockquote>
 <h2>What kinda server should I buy?</h2>
 <p>If you have access to payment methods <b>outside Iran</b>, then I recommend you to buy a CX21 (or CPX21) cloud server from <a href="https://www.hetzner.com/cloud#:~:text=5.18%20/%20mo-,CX21,-vCPU">Hetzner</a></p>
 <p>Else, you can buy <b>Ubuntu-based</b> servers from <b>Any VPS provider inside Iran</b>.</p>
 <p>The location of the servers should be in European countries (especially Germany and the Netherlands) to have the best speed and less delay to send information to Iran (to you).</p>
 <h2>What should I do next?</h2>
 <p>You need to Install an ssh client program, to connect to your server's shell and run commands on your server.<br>It is optional so you can install any ssh client you like, (there are also some people who don't use these softwares, they run the <code>ssh</code> command on their terminal).</p>
-<p>But, I recommend you to use <a href="https://mobaxterm.mobatek.net/">MobaXterm</a>. It has good features such as password manager (so you don't have to enter password every time), session manager (saving sessions so you don't have to type ssh command every time) and some more helping features like graphical SFTP browser (also available in <em>soft98</em>).</p>
-<h2>How does MobaXterm works?</h2>
-<p>When you finished installing MobaXterm, you can add your server as an session. Detailed guide of will be on <a href="https://github.com/AliAlmasi/rahnama/wiki/MobaXterm">Wiki</a>.</p>
+<p>But, I recommend you to use <a href="https://mobaxterm.mobatek.net/">MobaXterm</a>. It has good features such as password manager (so you don't have to enter a password every time), session manager (saving sessions so you don't have to type ssh commands every time), and some more helping features like a graphical SFTP browser (also available in <em>soft98</em>).</p>
+<h2>How does MobaXterm work?</h2>
+<p>When you finished installing MobaXterm, you can add your server as a session. Detailed guide of will be on <a href="https://github.com/AliAlmasi/rahnama/wiki/MobaXterm">Wiki</a>.</p>
 <h2>Ok, what's next?</h2>
 <p>Now we're getting to the exciting parts. Next step is to install the 3x-ui panel on your server.</p>
-<p>To do this, the developers of 3x-ui have already made an <code>install.sh</code> script, so youdon't have to install manually.<br>Only thing you need to do is to run this on your server's shell:</p><pre><code>bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)</code></pre>
+<p>To do this, the developers of 3x-ui have already made an <code>install.sh</code> script, so you don't have to install it manually.<br>Only thing you need to do is to run this on your server's shell:</p><pre><code>bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)</code></pre>
 <p>Finally, you should see this:</p>
-<pre><code>Install/update finished! For security it's recommended to modify panel settings
+<pre><code>Install/update finished! For security, it's recommended to modify panel settings
 Do you want to continue with the modification [y/n]? :</code></pre>
 <p>This indicates that 3x-ui has installed successfully. Now you got to set the panel's settings.</p>
 <ol>
 <li>Enter 'y'.</li>
 <li>Enter your desired login username.</li>
 <li>Enter your desired login password.</li>
-<li>Enter your desired port for panel.</li>
+<li>Enter your desired port for the panel.</li>
 </ol>
 <p>Now you should see something like this:</p>
-<pre><code>Install/update finished! For security it's recommended to modify panel settings
+<pre><code>Install/update finished! For security, it's recommended to modify panel settings
 Do you want to continue with the modification [y/n]? :y
 Please set up your username:alialmasi
 Your username will be:alialmasi
@@ -55,7 +56,7 @@ Created symlink /etc/systemd/system/multi-user.target.wants/x-ui.service → /et
 x-ui v1.1.4 installation finished, it is running now...
 
 x-ui control menu usages:</code></pre>
-<p>Congrats, you have sucessfully installed and configured your 3x-ui panel.<br>Now go to <code>http://YOUR-IP:PORT</code> to see the panel.</p>
+<p>Congrats, you have successfully installed and configured your 3x-ui panel.<br>Now go to <code>http://YOUR-IP:PORT</code> to see the panel.</p>
 <h2>What about "exciting" parts?</h2>
 <p>The full step-by-step guide is on the <a href="https://github.com/AliAlmasi/rahnama/wiki/">wiki</a>.<br>
 You can ask your questions on the <a href="https://github.com/AliAlmasi/rahnama/issues">issues</a> section.<br><a href="https://github.com/AliAlmasi/rahnama/discussions">Discussions</a> section are available for you guys.</p>
